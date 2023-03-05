@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.iiashaash.sampleintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.iiashaash.sampleintellijplugin.MyBundle
 
 class MyApplicationService {
 
